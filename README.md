@@ -26,7 +26,7 @@ Below is an example output:
                 
 ## Compilation and Execution
 The program can be compiled using
-bash```
+```bash
 gcc -Wall weight.c -o weight
 ```
 
@@ -35,3 +35,5 @@ Execute using ./weight
 ## Extra Notes
 This program uses the following conversion to convert from grams to pounds:
                 1 gram = 0.002202462 pounds
+                
+Click [here](https://www .usmint.gov/about_the_mint/index583f.html?action=coin_specifications) to view the various coin weights.
