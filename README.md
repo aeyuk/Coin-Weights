@@ -30,7 +30,7 @@ The program can be compiled using
 gcc -Wall weight.c -o weight
 ```
 
-Execute using ./weight
+Execute using `./weight`
 
 ## Extra Notes
 This program uses the following conversion to convert from grams to pounds:
